@@ -1,3 +1,6 @@
 /checkpoints
 /output
 /video
+*.mp4
+*.pt
+*.ply
